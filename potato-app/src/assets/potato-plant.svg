@@ -1,0 +1,12 @@
+<svg width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a7d47d"/><stop offset="1" stop-color="#3c883e"/></linearGradient>
+  </defs>
+  <path d="M212 360c8-96 4-196-16-292" stroke="#3f8842" stroke-width="8" stroke-linecap="round"/>
+  <path d="M198 130c-52-42-105-46-154-16 11 50 58 84 113 80 19-17 33-37 41-64Z" fill="url(#leaf)" opacity=".75"/>
+  <path d="M212 148c41-55 94-75 160-54-2 56-44 103-105 115-27-12-45-33-55-61Z" fill="url(#leaf)" opacity=".78"/>
+  <path d="M209 221c-60-22-111-9-151 36 26 46 84 63 137 40 13-23 18-49 14-76Z" fill="url(#leaf)" opacity=".6"/>
+  <path d="M226 247c47-35 96-39 149-13-12 49-61 80-116 74-19-16-30-36-33-61Z" fill="url(#leaf)" opacity=".65"/>
+  <g stroke="#f4f7e5" stroke-width="3" stroke-linecap="round" opacity=".82"><path d="M92 132c37 22 69 38 107 51"/><path d="M340 106c-38 32-76 61-122 88"/><path d="M96 265c40 8 74 15 110 17"/><path d="M344 248c-41 21-77 35-116 45"/></g>
+  <circle cx="310" cy="352" r="31" fill="#c9a06f"/><circle cx="351" cy="364" r="39" fill="#b98955"/><circle cx="263" cy="369" r="36" fill="#d2ab75"/>
+</svg>
